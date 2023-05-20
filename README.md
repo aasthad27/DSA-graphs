@@ -21,5 +21,5 @@
 3)Topological Sort 
 
 4)Bipartite Garph 
-![Bipartite Graph](https://github.com/aasthad27/DSA-graphs/assets/89932857/956789be-922b-4f3e-86e4-27128d1b3e8a)
+![Bipartite Graph (1)](https://github.com/aasthad27/DSA-graphs/assets/89932857/8018ed5f-0529-4ec2-b67b-868adb5329b0)
 
