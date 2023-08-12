@@ -12,15 +12,17 @@
 
 -->dfs
 
-#### Questions based on this traversals
+#### Questions based on these traversals
 
 1)NUMBER OF PROVINCES 
 
 2)NUMBER OF ISLANDS 
 
 3)Topological Sort 
-![Topological Sort](https://github.com/aasthad27/DSA-graphs/assets/89932857/0dcb3ab6-2593-4698-968b-44159a25f2f2)
+![Topological Sort](https://github.com/aasthad27/DSA-graphs/assets/89932857/15eec6fd-992b-4d88-9ca1-f0d875b8c932)
+
 
 4)Bipartite Garph 
-![Bipartite Graph (1)](https://github.com/aasthad27/DSA-graphs/assets/89932857/8018ed5f-0529-4ec2-b67b-868adb5329b0)
+![Bipartite Graph (1)](https://github.com/aasthad27/DSA-graphs/assets/89932857/70202c1d-ff5c-4f6f-97db-f8feac421116)
+
 
